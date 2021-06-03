@@ -12,7 +12,6 @@
   </head>
   <body>
     <body>
-
 <div class="container">
 <h1>Agregar Registro</h1>
 <div
