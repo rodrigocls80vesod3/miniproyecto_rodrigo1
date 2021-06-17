@@ -9,10 +9,9 @@
           <input type="text" class="form-control" name="nombre" id="nombre" value="<?php echo $nombre?>" required>
             <label for="apaterno">Apellido paterno:</label>
             <input type="text" name="apaterno" id="apaterno" class="form-control" value="<?php echo $apaterno ?>" required>
-       <label for="amaterno">Apellido materno:</label>
+            <label for="amaterno">Apellido materno:</label>
      <input type="text" name="amaterno" id="amaterno" class="form-control" value="<?php echo $amaterno" required>
-<button class="btn btn-warning form-control">Editar</button>
-
+      <button class="btn btn-warning form-control">Editar</button>
         </form>
       </div>
     </div>
